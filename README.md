@@ -31,3 +31,7 @@ git clone https://github.com/FB-KO/NOW
 cd NOW
 
 python Now.py
+
+💖 This tools is paid.. You need parmation to use this tools...💖
+
+💖 enjoy uodated ok id tools 💖

@@ -30,4 +30,4 @@ git clone https://github.com/FB-KO/NOW
 
 cd NOW
 
-python 
+python Now.py
